@@ -18,3 +18,7 @@ service firebase.storage {
 }
 
 ```
+![Screenshot 2023-09-20 at 3 56 04 PM](https://github.com/Experimenters1/Uploading_Image_to_Firebase_Storage_and_Database/assets/64000769/b5203047-6e8b-433c-b960-95416ec138ac)
+![Screenshot 2023-09-20 at 4 08 01 PM](https://github.com/Experimenters1/Uploading_Image_to_Firebase_Storage_and_Database/assets/64000769/f70dc079-43d2-432d-8127-1e3ac4164d41)
+![Screenshot 2023-09-20 at 4 08 11 PM](https://github.com/Experimenters1/Uploading_Image_to_Firebase_Storage_and_Database/assets/64000769/2c3165f4-1dcb-4d54-a914-05cdc9fcb5a5)
+
